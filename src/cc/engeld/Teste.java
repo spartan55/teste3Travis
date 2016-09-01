@@ -1,6 +1,6 @@
 package cc.engeld;
 
-public class HelloWorld {
+public class Teste {
     public static void main(String Args[]) {
         Gerador g = new Gerador();
         Integer[] numeros = g.gerarNumerosAleatorios(10, 100);
