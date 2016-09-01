@@ -1,5 +1,3 @@
-package cc.engeld;
-
 import java.util.Random;
 
 
