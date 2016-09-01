@@ -1,5 +1,3 @@
-package cc.engeld;
-
 public interface SortElements {
 
     public static final int MAIOR = 1;
