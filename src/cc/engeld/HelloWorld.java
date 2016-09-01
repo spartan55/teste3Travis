@@ -1,7 +1,7 @@
 package cc.engeld;
 
 public class HelloWorld {
-    publib static void main(String Args[]) {
+    public static void main(String Args[]) {
         Gerador g = new Gerador();
         Integer[] numeros = g.gerarNumerosAleatorios(10, 100);
         
